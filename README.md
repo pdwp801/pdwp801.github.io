@@ -1,2 +1,2 @@
 # pdwp801.github.io
-Ejemplo de un sitio
+Ejemplo de un sitio web
